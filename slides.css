@@ -118,7 +118,14 @@ a.one{
     border-left: 1px solid #CCCCCC;*/
 }
 a.two{
-    font: 24px Arial;
+    font: 18px Arial;
+    text-decoration:underline;
+    color: Black;
+}
+a.three{
+    font: 18px Arial;
+    font-style:italic;
+    text-decoration:underline;
     color: Black;
 }
 th{
